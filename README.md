@@ -21,7 +21,7 @@
 
 
 ###### In the client code (Client.py):
-######## 	send( IP(dst="192.168.43.63") / ICMP(type="echo-request", id=0x123) / Raw(load="RATESD : "+msg),verbose=0)
+######		send( IP(dst="192.168.43.63") / ICMP(type="echo-request", id=0x123) / Raw(load="RATESD : "+msg),verbose=0)
 ###### you need to modify the IP "192.168.43.63" by your server IP.
 
 
