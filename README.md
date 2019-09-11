@@ -29,5 +29,5 @@
 
 | Contributors | Contact address | Employer | Position |
 |:-----------:|:------------:|:------------:|:------------:|
-| Guillaume Gronnier | <gglyon769@gmail.com> | CEIS SecuInsight | Cyber Thread Intelligence Analyst
+| Guillaume Gronnier | <gglyon769@gmail.com> | CEIS Cyberdefense | Cyber Thread Intelligence Consultant
 
